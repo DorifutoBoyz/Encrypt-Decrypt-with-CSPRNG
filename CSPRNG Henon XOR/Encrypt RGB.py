@@ -56,7 +56,7 @@ def encrypt_image(image_path, a, b, x0, y0, z0):
     return encrypted_image
 
 # Menyimpan dan menampilkan gambar terenkripsi
-image_path = './Ex Image/cihuy.png'  # Ganti dengan path gambar yang ingin dienkripsi
+image_path = './Ex Image/Mobil.png'  # Ganti dengan path gambar yang ingin dienkripsi
 a, b = 1.4, 0.3  # Parameter Hénon Map
 x0, y0, z0 = 0.1, 0.2, 0.3  # Kondisi awal
 
